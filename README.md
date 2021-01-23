@@ -14,5 +14,5 @@
 * Profit/Loss Percentage
 
 ## Future Scope
-##### I am Planning to connect it with SQL Database and keep the record and work on Frontend making it a complete working application so that it helps you track your Investment.
+- [x] I am Planning to connect it with SQL Database and keep the record and work on Frontend making it a complete working application so that it helps you track your Investment.
 Happy Trading
